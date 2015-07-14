@@ -33,6 +33,7 @@ void StartTask(void * p_arg)
 		while(1)
 		{
             printf("ok");
+            printf("1");           
 			OSTimeDly(10);
 		};
 

@@ -1,5 +1,5 @@
 Dependencies for Project 'Project', Target 'Project': (DO NOT MODIFY !)
-F (..\App\main.c)(0x55A47CAE)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I..\App\inc -I..\Bsp\inc -I..\Lib\CMSIS\inc -I..\Lib\STM32F4xx_StdPeriph_Driver\inc -I..\uCOSII\core -I..\uCOSII\port -I..\App\control -I..\App -I..\App\Move_Ctl -I..\Bsp -I..\App\Action -I..\App\NewRoute-I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I E:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.2.0\Device\Include-DSTM32F407xx -DSTM32F40XX -DUSE_STDPERIPH_DRIVER -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -D__FPU_PRESENT="1"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+F (..\App\main.c)(0x55A48065)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I..\App\inc -I..\Bsp\inc -I..\Lib\CMSIS\inc -I..\Lib\STM32F4xx_StdPeriph_Driver\inc -I..\uCOSII\core -I..\uCOSII\port -I..\App\control -I..\App -I..\App\Move_Ctl -I..\Bsp -I..\App\Action -I..\App\NewRoute-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I Device\Include-DSTM32F40XX -DUSE_STDPERIPH_DRIVER -DARM_MATH_CM4 -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING -D__FPU_PRESENT="1" -o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
 I (..\App\includes.h)(0x54D84059)
 I (..\Lib\CMSIS\inc\stm32f4xx.h)(0x52D7839C)
 I (..\Lib\CMSIS\inc\core_cm4.h)(0x50CF4EDE)
